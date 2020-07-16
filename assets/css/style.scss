@@ -103,6 +103,11 @@ body {
   border-color: #a7423e;
 }
 
+
+/* Phoenix flash messages */
+.alert:empty { display: none; }
+
+
 .alert-info{
   color: #fff;
   background-color: #ec5d57;
